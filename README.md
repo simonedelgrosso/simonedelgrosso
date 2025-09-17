@@ -28,7 +28,7 @@ I’m passionate about **artificial intelligence** and **open-source software**.
 
 ### Android  
 - [**Altira**](https://github.com/simonedelgrosso/altira-info) - Android app for navigation with compass and altimeter (Java)  
-- [**Pillol App**](https://github.com/simonedelgrosso/pillol-app-info) – Android app to manage daily medications, with scheduling and notification system (Java + Room)
+- [**Medivy**](https://github.com/simonedelgrosso/medivy-info) – Android app to manage daily medications, with scheduling and notification system (Java + Room)
 
 ## 🛠️ Tech Stack
 
