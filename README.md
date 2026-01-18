@@ -26,7 +26,7 @@ I’m passionate about **artificial intelligence** and **open-source software**.
 ### Web
 - [**Portfolio**](https://github.com/simonedelgrosso/simonedelgrosso.github.io) – Static personal website that includes my projects and my resume
 
-### Android  
+### Mobile  
 - [**Altira**](https://github.com/simonedelgrosso/altira-info) - Android app for navigation with compass and altimeter (Java)  
 - [**Hooked**](https://github.com/simonedelgrosso/hooked-info) - Mobile app for tracking fishing gear, baits, lures and catches with stats (Ionic)  
 - [**Medivy**](https://github.com/simonedelgrosso/medivy-info) – Android app to manage daily medications, with scheduling and notification system (Java + Room)

@@ -26,7 +26,7 @@ Sono appassionato di **intelligenza artificiale** e **software open-source**. Mi
 ### Web
 - [**Portfolio**](https://github.com/simonedelgrosso/simonedelgrosso.github.io) – Sito personale statico che raccoglie i miei progetti e il mio profilo professionale
 
-### Android
+### Mobile
 - [**Altira**](https://github.com/simonedelgrosso/altira-info) - App Android per la navigazione tramite bussola e altimetro (Java)  
 - [**Hooked**](https://github.com/simonedelgrosso/hooked-info) - App Mobile per tracciare attrezzatura da pesca, esche, artificiali e catture con statistiche (Ionic)  
 - [**Medivy**](https://github.com/simonedelgrosso/medivy-info) – App Android per la gestione quotidiana dei farmaci, con sistema di pianificazione e notifiche (Java + Room)  
