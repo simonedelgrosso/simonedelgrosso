@@ -8,7 +8,7 @@ Sono appassionato di **intelligenza artificiale** e **software open-source**. Mi
 
 ## 💼 Profilo professionale
 
-- Full-stack Developer presso **Reply Cluster Rome IT**
+- Full-stack Developer presso **Reply Cluster Roma**
 - Specializzato in **tecnologie .NET**, servizi Azure e sviluppo web moderno
 - Esperienza nella **progettazione di database** e realizzazione di API RESTful
 - Conoscenza di **framework UI** come Angular e React

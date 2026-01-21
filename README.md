@@ -8,7 +8,7 @@ I’m passionate about **artificial intelligence** and **open-source software**.
 
 ## 💼 Professional Summary
 
-- Full-stack Developer at **Reply Cluster Rome IT**
+- Full-stack Developer at **Reply Cluster Roma**
 - Strong focus on **.NET technologies**, Azure services, and modern web development
 - Experience with **database design** and RESTful APIs
 - Experience with **UI frameworks** like Angular & React
