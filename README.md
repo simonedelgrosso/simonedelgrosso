@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Simone
 
-> [Click here](README.it.md) for the italian version
+> Click [here](README.it.md) for the italian version
 
 I'm a **full-stack developer** based in Rome (Italy), with a degree in Computer Science and professional experience in designing and building applications using the Microsoft technology stack.
 
@@ -24,7 +24,7 @@ I’m passionate about **artificial intelligence** and **open-source software**.
 ## 🧪 Personal Projects
 
 ### Web
-- [**Portfolio**](https://github.com/simonedelgrosso/simonedelgrosso.github.io) – Static personal website that includes my projects and my resume
+- [**Portfolio**](https://github.com/simonedelgrosso/simonedelgrosso.github.io) – Static personal website that includes my projects and my resume   
 
 ### Mobile  
 - [**Altira**](https://github.com/simonedelgrosso/altira-info) - Android app for navigation with compass and altimeter (Java)  
@@ -43,8 +43,8 @@ I’m passionate about **artificial intelligence** and **open-source software**.
 
 - [Email](mailto:simonedelgrosso@outlook.it)
 - [LinkedIn](https://www.linkedin.com/in/simdlg/)
-- [Portfolio](https://simonedelgrosso.github.io)
 - [Telegram](https://t.me/simonedelgrosso)
+- [X](https://x.com/simdlg)
 
 ## 📊 GitHub Stats
 

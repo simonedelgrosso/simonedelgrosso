@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Simone
 
-> [Clicca qui](README.md) per la versione in inglese
+> Clicca [qui](README.md) per la versione in inglese
 
 Sono un **full-stack developer** con sede a Roma, laureato in Informatica, con esperienza professionale nello sviluppo di applicazioni utilizzando lo stack tecnologico Microsoft.
 
@@ -43,8 +43,8 @@ Sono appassionato di **intelligenza artificiale** e **software open-source**. Mi
 
 - [Email](mailto:simonedelgrosso@outlook.it)  
 - [LinkedIn](https://www.linkedin.com/in/simdlg/)  
-- [Portfolio](https://simonedelgrosso.github.io)
 - [Telegram](https://t.me/simonedelgrosso)
+- [X](https://x.com/simdlg)
 
 ## 📊 GitHub Stats
 
