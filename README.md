@@ -26,11 +26,6 @@ I’m passionate about **artificial intelligence** and **open-source software**.
 ### Web
 - [**Portfolio**](https://github.com/simonedelgrosso/simonedelgrosso.github.io) – Static personal website that includes my projects and my resume   
 
-### Mobile  
-- [**Altira**](https://github.com/simonedelgrosso/altira-info) - Android app for navigation with compass and altimeter (Java)  
-- [**Hooked**](https://github.com/simonedelgrosso/hooked-info) - Mobile app for tracking fishing gear, baits, lures and catches with stats (Ionic)  
-- [**Medivy**](https://github.com/simonedelgrosso/medivy-info) – Android app to manage daily medications, with scheduling and notification system (Java + Room)
-
 ## 🛠️ Tech Stack
 
 - **Cloud**: Microsoft Azure  
@@ -45,8 +40,3 @@ I’m passionate about **artificial intelligence** and **open-source software**.
 - [LinkedIn](https://www.linkedin.com/in/simdlg/)
 - [Telegram](https://t.me/simonedelgrosso)
 - [X](https://x.com/simdlg)
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=simonedelgrosso&theme=transparent&hide_border=true)  
-![GitHub TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonedelgrosso&theme=transparent&show_icons=true&hide_border=true&layout=compact)
